@@ -9,6 +9,9 @@ Odpowiedzią na pytanie dlaczego chce programować jest w kolejności :
 -Podoba mi się to zawsze lubiłem rozwiązywać problemy np. z naprawą elektroniki .
 - Uważam ze jest to dobry i szanowany zawód dający dobre możliwości rozwoju. 
 -Zawód ten daje perspektywy dobrych zarobków na przyszłość.
+
+
+
 The answer to the question why I want to program is, in order :
 - -I like to spend time in front of the monitor.
 -I have always liked to solve problems for example repair of the electronics.
