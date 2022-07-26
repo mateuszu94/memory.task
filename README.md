@@ -1,4 +1,9 @@
 Witam nie wiedziałem czy powinienem napisać to po angielsku czy po polsku wiec załączę odpowiedz w obydwu  jeżykach .
+
+
+
+
+
 Odpowiedzią na pytanie dlaczego chce programować jest w kolejności :
 -Lubię spędzać czas przed monitorem 
 -Podoba mi się to zawsze lubiłem rozwiązywać problemy np. z naprawą elektroniki .
